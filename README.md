@@ -35,7 +35,7 @@ Build a **Library Management System (Admin Module)** that enables administrators
   - Data Structures: Linked Lists for dynamic record management.  
   - Linear Search for record lookup by ID or Title (no sorting).
 
-> ❗ **Note:** There is **no database or DB.java class** involved. All data is managed dynamically during runtime.
+> ❗ **Note:** There is **no database ** involved. All data is managed dynamically during runtime.
 
 ---
 
