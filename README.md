@@ -1,6 +1,6 @@
 # 📚 Library Management System (Admin Module)
 
-**👨‍💻 Developer:** Asji Siddique  
+**👨‍💻 Developer:** Asjid Siddique  
 **🔑 Login Credentials:**  
 - **Username:** admin  
 - **Password:** admin  
@@ -133,4 +133,4 @@ This project serves as a solid foundation for future enhancements like sorting, 
 ---
 
 **End of Document**  
-**Developer:** Asji Siddique
+**Developer:** Asjid Siddique
