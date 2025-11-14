@@ -124,7 +124,7 @@ Build a **Library Management System (Admin Module)** that enables administrators
 This Admin Module of the Library Management System delivers a clean, icon-rich interface for managing library operations without a database. Its straightforward design focuses on:
 
 - Managing books and students dynamically using Java data structures.  
-- Searching books by ID or Title (no sorting or category filters).  
+- Searching books by ID or Title.  
 - Clear display of library stats using visually appealing icons.  
 - Simple, intuitive navigation with icons to improve usability.  
 
